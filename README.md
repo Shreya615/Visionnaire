@@ -40,35 +40,68 @@ To deploy this project run
 
 ## Screenshots
 
-###Home page for user
-![Home Page](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(29).png?raw=true)
+###Sign Up for user
+![Sign Up](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(38).png)
 
-###JavaScript for motion in banner
-![Motion](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(30).png?raw=true)
+###LogIn for user
+![LogIn](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(39).png)
 
-###Apparels for shopping
-![Apparels](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(36).png?raw=true)
+###Profile Page with search feature
+![Profile](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(40).png)
 
-###Categories master for Admin
-![Apparels](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(31).png?raw=true)
+###Friend's Timeline
+![Timeline](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(41).png)
 
-###Categories master for Admin
-![Categories](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(31).png?raw=true)
+###Friend's Last seen
+![Last seen](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(42).png)
 
-###Product master for Admin
-![Product](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(32).png?raw=true)
+###About Page with followers
+![About](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(43).png)
 
-###Shopping Cart for User
-![Cart](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(33).png?raw=true)
+###Post
+![Post](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(44).png)
 
-###Checkout for User
-![Checkout](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(34).png?raw=true)
+###Change cover image
+![Cover Image](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(45).png)
 
-###Footer
-![Footer](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(35).png?raw=true)
+###Change profile image
+![Profile Image](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(46).png)
 
-###FAQ
-![FAQ](https://github.com/Shreya615/ShopBuddy/blob/master/screenshots/Screenshot%20(37).png?raw=true)
+###Followers
+![Followers](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(47).png)
+
+###Following
+![FAQ](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(48).png)
+
+###Like & Comment
+![Like & Comment](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(49).png)
+
+###Notifications
+![Notifications](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(51).png)
+
+###About
+![About](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(52).png)
+
+###Message
+![Message](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(53).png)
+
+###Notifications on frend's profile
+![Notifications](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(54).png)
+
+###Chatting
+![Chatting](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(55).png)
+
+###Photos
+![Photos](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(56).png)
+
+###Group
+![Group](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(57).png)
+
+###Group Info
+![Group Info](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(59).png)
+
+###Feed
+![Photos](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(60).png)
 
 
 
