@@ -70,7 +70,7 @@ To deploy this project run
 ###Followers
 ![Followers](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(47).png)
 
-###Following
+###Followers of Ronak
 ![FAQ](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(48).png)
 
 ###Like & Comment
