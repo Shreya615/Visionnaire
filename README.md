@@ -85,7 +85,7 @@ To deploy this project run
 ###Message
 ![Message](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(53).png)
 
-###Notifications on frend's profile
+###Notifications on friend's profile
 ![Notifications](https://github.com/Shreya615/Visionnaire/blob/master/screenshots/Screenshot%20(54).png)
 
 ###Chatting
