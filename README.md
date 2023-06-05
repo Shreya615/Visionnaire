@@ -7,6 +7,7 @@ Discover, connect, and engage on our vibrant social media platform. Stay connect
 ## Features
 
 - User-friendly interface for easy navigation and seamless user experience.
+- User registration and login.
 - Connect and stay in touch with friends, family, and acquaintances.
 - Discover and join communities based on your interests, hobbies, or professional goals.
 - Share your life experiences through posts and photos.
@@ -14,7 +15,10 @@ Discover, connect, and engage on our vibrant social media platform. Stay connect
 - Follow influencers and stay updated on their latest content.
 - Personalize your profile and showcase your personality.
 - Private messaging for direct communication with other users.
+- Provide features for users to create and join interest-based groups where they can engage in discussions, share content, and connect with like-minded individuals.
+- Search Functionalitythat allows users to find other users and pages.
 - Notifications to keep you informed about activity related to your profile and interests.
+- Logout
 
 
 
