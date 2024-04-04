@@ -21,27 +21,6 @@ Discover, connect, and engage on our vibrant social media platform. Stay connect
 - Logout
 
 
-
-
-
-## Installation
-
-Install Visionnaire with npm
-
-```bash
-  npm install Visionnaire
-  cd Visionnaire
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 ## Screenshots
 
 ###Sign Up for user
